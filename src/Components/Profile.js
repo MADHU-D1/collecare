@@ -6,7 +6,7 @@ import Footer from './Footer'
 export default function Profile() {
   return (
    <Box textAlign='center'>
-     <Text fontSize='30px'  fontFamily='poppins' bg='lightcyan'>SATISH COOL CARE OF AC Services & Repair</Text>
+     <Text fontSize='30px'  fontFamily='poppins' bg='red'>SATISH COOL CARE OF AC Services & Repair</Text>
       <Box >
        <Gallery/>
        <Footer/>
